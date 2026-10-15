@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeamDrop</string>
+    <string name="send_file">Send File</string>
+    <string name="send_app">Send App</string>
+    <string name="receive">Receive</string>
+    <string name="discovering">Searching for nearby devices…</string>
+    <string name="receiving_waiting">Waiting for incoming transfers…</string>
+</resources>

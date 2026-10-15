@@ -1,0 +1,6 @@
+{
+  "name": "BeamDrop",
+  "description": "100% offline local peer-to-peer (P2P) file and app sharing over Wi-Fi without internet or external servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

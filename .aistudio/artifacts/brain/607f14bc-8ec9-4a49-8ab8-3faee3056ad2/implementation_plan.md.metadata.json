@@ -1,0 +1,6 @@
+{
+  "summary": "Comprehensive architectural refactoring plan for BeamDrop into Clean Architecture (UI, Domain, Data/Network layers), fixing UI frame drops and recomposition lag, enabling automatic PC Web client lobby discovery with a dedicated real-time active sessions card, providing an interactive In-App Guide Screen, and authoring exhaustive technical & user documentation in README.md.",
+  "updatedAt": "2026-10-15T10:45:18.337305413Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
